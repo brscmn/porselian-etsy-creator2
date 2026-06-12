@@ -1,6 +1,6 @@
 name: Porselian Etsy Test
 
-on:
+"on":
   workflow_dispatch:
   push:
     paths:
