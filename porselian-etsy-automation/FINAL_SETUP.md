@@ -38,7 +38,13 @@ Otomasyon sunlari uretir:
 
 ## 4. Gorsel sistemi
 
-Her urun icin Etsy'de ideal gorsel seti:
+Bu sistemin ana mantigi:
+
+```text
+1 urun bilgisi + 1 referans urun gorseli = 8 adet Etsy gorsel uretim plani
+```
+
+Her urun icin Etsy'de ideal 8 gorsel seti:
 
 - 1 ana/lifestyle gorsel
 - 1 temiz katalog gorseli
@@ -47,6 +53,7 @@ Her urun icin Etsy'de ideal gorsel seti:
 - 1 kullanim gorseli
 - 1 set/adet gorseli
 - 1 paketleme veya hediye gorseli
+- 1 alternatif ortam/stil gorseli
 
 ## Hermes Bust Gorsel Yorumu
 
@@ -72,6 +79,5 @@ Eksik kalabilecek gorseller:
 
 ## Sonraki adim
 
-Her yeni urun icin once urun bilgisi tabloya girilir, sonra 2-5 adet gorsel eklenir.
-Bu sekilde Etsy listelemesi hem metin hem gorsel olarak tamamlanir.
-
+Her yeni urun icin once urun bilgisi tabloya girilir, sonra 1 adet referans gorsel eklenir.
+Bu referans gorselden 8 adet Etsy uyumlu gorsel uretim yonu olusturulur.

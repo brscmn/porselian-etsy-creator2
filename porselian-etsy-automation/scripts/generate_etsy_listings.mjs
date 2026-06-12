@@ -186,6 +186,7 @@ function photoChecklist(product) {
     "dimension image",
     `use-case image for ${product.name}`,
     "packaging or gift-ready image",
+    "alternate interior styling image",
   ].join(" | ");
 }
 
@@ -210,10 +211,10 @@ function visualBrief(row, product) {
   const setCount = row.set_count.trim() || "1";
 
   return [
-    `Create Etsy-ready visuals for ${name}, a handmade stone powder ${product.name}.`,
+    `Create an 8-image Etsy visual set from one reference image for ${name}, a handmade stone powder ${product.name}.`,
     `Show ${setCount} piece(s), ${color} color direction, ${dimensions} size context.`,
     `Use bright natural light, clean neutral interior styling, realistic matte stone texture and premium handmade decor feeling.`,
-    `Include one clean catalog image, one lifestyle scene, one close texture shot, one scale/dimension image and one usage image.`,
+    `Include: main lifestyle image, clean catalog image, dimension image, close texture image, use-case image, set/count image, packaging or gift image and alternate interior styling image.`,
     `Do not show water or fresh flowers unless the product note says it can hold water.`,
   ].join(" ");
 }

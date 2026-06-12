@@ -11,7 +11,12 @@ Hermes Bust Bookend Set
 - kitaplik dekoru
 - salon sehpa/raf dekoru
 
-## Gorsel Siralamasi
+## Sistem Mantigi
+
+Hermes icin verilen gorseller ornektir. Final sistemde her urun icin 1 referans gorsel yeterlidir.
+Bu referans gorselden 8 adet Etsy uyumlu gorsel uretim plani cikarilir.
+
+## 8 Gorsel Siralamasi
 
 1. Lifestyle ana gorsel
    - Kitaplarla birlikte sehpa veya raf uzerinde
@@ -43,7 +48,10 @@ Hermes Bust Bookend Set
    - Korunakli paket
    - Hediye edilebilir hissi
 
+8. Alternatif ortam gorseli
+   - Farkli bir raf, konsol veya calisma masasi sahnesi
+   - Ayni urun kimligini koruyarak ikinci dekorasyon secenegi
+
 ## AI Lifestyle Prompt
 
 Create a realistic Etsy product lifestyle photo for a set of two handmade stone powder Hermes bust bookends. The bookends are white with colorful paint splash details and matte stone texture. Place them on a modern light-colored bookshelf holding a small set of books. Use bright natural daylight, neutral interior styling, premium handmade home decor feeling, clean composition, realistic scale, no extra text, no logo.
-
